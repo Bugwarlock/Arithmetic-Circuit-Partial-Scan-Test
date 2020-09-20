@@ -1,0 +1,15 @@
+C:/modeltech_10.1c/HW#7/Golomb_bench.v {1 {vlog -work HW#7 -vopt C:/modeltech_10.1c/HW#7/Golomb_bench.v
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Golombtester
+
+Top level modules:
+	Golombtester
+
+} {} {}} C:/modeltech_10.1c/HW#7/Golomb.v {1 {vlog -work HW#7 -vopt {C:\modeltech_10.1c\HW#7\Golomb.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Gompegolomb
+
+Top level modules:
+	Gompegolomb
+
+} {} {}}
